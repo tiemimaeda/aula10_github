@@ -15,6 +15,7 @@ This repository was created for practicing basic Git commands. It contains a sim
 
 - `index.html`: Main HTML file that displays the image.
 - `images/example.jpg`: Image used in the HTML file.
+- `style.css`: Give some style to the HTML file.
 
 ## Basic Git Commands
 
@@ -23,6 +24,7 @@ This repository was created for practicing basic Git commands. It contains a sim
 git add index.html
 git add images/example.jpg
 git add style.css
+git add readme.md
 ```
 
 ### Make a Commit
