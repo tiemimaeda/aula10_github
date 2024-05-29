@@ -54,6 +54,6 @@ git push origin main
     ```
 2. Navigate to the repository directory:
     ```bash
-    cd git-aula10_github
+    cd aula10_github
     ```
 3. Open the `index.html` file in your browser to view the image.
